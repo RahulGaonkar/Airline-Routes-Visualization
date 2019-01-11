@@ -1,8 +1,12 @@
 # Airline-Routes-Visualization
 Bar Chart & Dot Map with D3.js
 ## Synopsis
+1. Developed Bar chart to answer the below question:<br>
 What are the airlines with more routes, and how the distribution looks like. Are there airlines with many more routes that others?
-In which regions of the world are most of the airport these airlines operate?
+
+2. Developed Dot map to answer the below question:<br>
+In which regions of the world are most of the airports these airlines operate in?
+
 **Data:**
 
 ***airlineRoutes.csv*** <br>
