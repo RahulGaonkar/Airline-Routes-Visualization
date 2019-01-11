@@ -6,8 +6,8 @@ Bar Chart & Dot Map with D3.js
 ***airlineRoutes.csv*** <br>
 CSV file containing 23041 lines, where each line represents one airplane route. Each route contains information of the airport of origin, destination and airline. Below we have an example of a route: <br>
 
-Field	           Value <br>
-ID	             1 <br>
+Field&nbsp;&nbsp;Value <br>
+ID&nbsp;&nbsp;&nbsp;1 <br>
 AirlineID	       24 <br>
 AirlineName	     American Airlines <br>
 SourceAirportID	 4355 <br>
