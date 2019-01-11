@@ -16,7 +16,7 @@ SourceLatitude&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40.65209961 <br>
 SourceLongitude&nbsp;&nbsp;&nbsp;-75.44080353 <br>
 DestAirportID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3876 <br>
 DestAirport&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Charlotte Douglas International Airport <br>
-DestLatitude&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35.2140007 <br>
+DestLatitude&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35.2140007 <br>
 DestLongitude&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-80.94309998 <br>
 
 ***countries.geo.json***<br>
